@@ -3,6 +3,6 @@ Create a react application using webpack configuration instead of create react a
 
 Open application folder
 
-NPM i
+NPM i && npm start to navigate to http://localhost:3000
 
-Open browser and navigate to http://localhost:3000
+npm build for taking build files using webpack
